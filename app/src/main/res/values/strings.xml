@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auto Transporters</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyC2o_vxhaA-FvUMjtMTp39po1q7PR2MRZE</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_trip_detail">Map</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>
